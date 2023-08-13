@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "mdsh",
+  "version": "1.0.0",
+  "description": "https://www.npmjs.com/package/color-scheme",
+  "main": "manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dave VanderWeelw",
+  "license": "ISC",
+  "dependencies": {
+    "@dvanderweele/smarked": "^1.1.0",
+    "@fontsource/fira-code": "^5.0.8",
+    "esbuild": "^0.19.1",
+    "quickjs-emscripten": "^0.23.0",
+    "vzfs": "^1.0.0",
+    "xstate": "^4.38.2"
+  }
+}
